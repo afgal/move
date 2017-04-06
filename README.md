@@ -1,2 +1,2 @@
 # move
-where source was moved to
+where source is moved to
